@@ -23,7 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [GPT-3 Beta Access Tutorial: Get Into Beta Program GPT-3 Now!](https://medium.com/@techiral/gpt-3-beta-access-tutorial-get-into-beta-program-gpt-3-now-e41ca946ac2c?source=rss-65b63ff4aec0------2)
+- [GPT-3 Beta Access Tutorial: Get Into Beta Program GPT-3 Now!](https://techiral.medium.com/gpt-3-beta-access-tutorial-get-into-beta-program-gpt-3-now-e41ca946ac2c?source=rss-65b63ff4aec0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
