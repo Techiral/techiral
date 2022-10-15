@@ -23,6 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How AI is changing the way we think about God: A new era of religious exploration?](https://techiral.medium.com/how-ai-is-changing-the-way-we-think-about-god-a-new-era-of-religious-exploration-e498043b50d3?source=rss-65b63ff4aec0------2)
 - [GPT-3 Beta Access Tutorial: Get Into Beta Program GPT-3 Now!](https://techiral.medium.com/gpt-3-beta-access-tutorial-get-into-beta-program-gpt-3-now-e41ca946ac2c?source=rss-65b63ff4aec0------2)
 <!-- BLOG-POST-LIST:END -->
 
