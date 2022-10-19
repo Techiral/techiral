@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Metaverse: A New Way Of Life](https://techiral.medium.com/the-metaverse-a-new-way-of-life-bc26f1817c02?source=rss-65b63ff4aec0------2)
 - [The Battle of the Cryptocurrencies: Bitcoin vs Ethereum](https://techiral.medium.com/the-battle-of-the-cryptocurrencies-bitcoin-vs-ethereum-c0e854cbe502?source=rss-65b63ff4aec0------2)
 - [How Web 3.0 will revolutionize the way we use the internet](https://techiral.medium.com/how-web-3-0-will-revolutionize-the-way-we-use-the-internet-b323ceb8ef5c?source=rss-65b63ff4aec0------2)
 - [How AI is changing the way we think about God: A new era of religious exploration?](https://techiral.medium.com/how-ai-is-changing-the-way-we-think-about-god-a-new-era-of-religious-exploration-e498043b50d3?source=rss-65b63ff4aec0------2)
-- [GPT-3 Beta Access Tutorial: Get Into Beta Program GPT-3 Now!](https://techiral.medium.com/gpt-3-beta-access-tutorial-get-into-beta-program-gpt-3-now-e41ca946ac2c?source=rss-65b63ff4aec0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
