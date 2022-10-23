@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Enjoy Diwali From Python to Diwali: How to Celebrate the Festival of Lights](https://techiral.medium.com/enjoy-diwali-from-python-to-diwali-how-to-celebrate-the-festival-of-lights-4bf352633188?source=rss-65b63ff4aec0------2)
 - [Build a voice assistant with GPT-3 in python today](https://techiral.medium.com/build-a-voice-assistant-with-gpt-3-in-python-today-617e67e33b54?source=rss-65b63ff4aec0------2)
 - [The Metaverse: A New Way Of Life](https://techiral.medium.com/the-metaverse-a-new-way-of-life-bc26f1817c02?source=rss-65b63ff4aec0------2)
 - [The Battle of the Cryptocurrencies: Bitcoin vs Ethereum](https://techiral.medium.com/the-battle-of-the-cryptocurrencies-bitcoin-vs-ethereum-c0e854cbe502?source=rss-65b63ff4aec0------2)
-- [How Web 3.0 will revolutionize the way we use the internet](https://techiral.medium.com/how-web-3-0-will-revolutionize-the-way-we-use-the-internet-b323ceb8ef5c?source=rss-65b63ff4aec0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
