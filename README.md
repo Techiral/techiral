@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Find the Nearest Haunted House and Get Spooked!](https://techiral.medium.com/find-the-nearest-haunted-house-and-get-spooked-2ac467e0b118?source=rss-65b63ff4aec0------2)
 - [Halloween  is the perfect time to learn Python!](https://techiral.medium.com/halloween-is-the-perfect-time-to-learn-python-8fb0f9740cf6?source=rss-65b63ff4aec0------2)
 - [Can’t code? Learn Python in 7 days and change your life!](https://techiral.medium.com/cant-code-learn-python-in-7-days-and-change-your-life-ba1ef6d7cc4b?source=rss-65b63ff4aec0------2)
 - [Enjoy Diwali From Python to Diwali: How to Celebrate the Festival of Lights](https://techiral.medium.com/enjoy-diwali-from-python-to-diwali-how-to-celebrate-the-festival-of-lights-4bf352633188?source=rss-65b63ff4aec0------2)
-- [Build a voice assistant with GPT-3 in python today](https://techiral.medium.com/build-a-voice-assistant-with-gpt-3-in-python-today-617e67e33b54?source=rss-65b63ff4aec0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
