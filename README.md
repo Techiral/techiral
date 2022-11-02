@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flask Python Stripe Payment Integration Tutorial](https://techiral.medium.com/flask-python-stripe-payment-integration-tutorial-64fd96897202?source=rss-65b63ff4aec0------2)
 - [How To Find A Good Product Idea? [Step-By-Step Guide]](https://techiral.medium.com/how-to-find-a-good-product-idea-step-by-step-guide-4d56989b153d?source=rss-65b63ff4aec0------2)
 - [Find the Nearest Haunted House and Get Spooked!](https://techiral.medium.com/find-the-nearest-haunted-house-and-get-spooked-2ac467e0b118?source=rss-65b63ff4aec0------2)
 - [Halloween  is the perfect time to learn Python!](https://techiral.medium.com/halloween-is-the-perfect-time-to-learn-python-8fb0f9740cf6?source=rss-65b63ff4aec0------2)
-- [Can’t code? Learn Python in 7 days and change your life!](https://techiral.medium.com/cant-code-learn-python-in-7-days-and-change-your-life-ba1ef6d7cc4b?source=rss-65b63ff4aec0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
