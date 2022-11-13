@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Join the #100DaysOfBuildingFuture](https://techiral.medium.com/join-the-100daysofbuildingfuture-2dfee22f32c2?source=rss-65b63ff4aec0------2)
 - [Full Guide To Building A SaaS App With Python.](https://techiral.medium.com/full-guide-to-building-a-saas-app-with-python-a977a1d9eea4?source=rss-65b63ff4aec0------2)
 - [Are You Ready to Validate Your SaaS Startup Idea?](https://techiral.medium.com/are-you-ready-to-validate-your-saas-startup-idea-af40bcc9a29d?source=rss-65b63ff4aec0------2)
 - [Flask Python Stripe Payment Integration Tutorial](https://techiral.medium.com/flask-python-stripe-payment-integration-tutorial-64fd96897202?source=rss-65b63ff4aec0------2)
-- [How To Find A Good Product Idea? [Step-By-Step Guide]](https://techiral.medium.com/how-to-find-a-good-product-idea-step-by-step-guide-4d56989b153d?source=rss-65b63ff4aec0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
