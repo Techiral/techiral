@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Growing an Instagram Theme page to 10,000 Followers!](https://techiral.medium.com/growing-an-instagram-theme-page-to-10-000-followers-6141cf71ad0e?source=rss-65b63ff4aec0------2)
 - [The Many Uses Of OpenAI Codex: 13 Amazing Case Studies](https://techiral.medium.com/the-many-uses-of-openai-codex-13-amazing-case-studies-f1fdc24ad451?source=rss-65b63ff4aec0------2)
 - [Automate a YouTube video making with Python easily!](https://techiral.medium.com/automate-a-youtube-video-making-with-python-easily-dc9f00c0b066?source=rss-65b63ff4aec0------2)
 - [Join the #100DaysOfBuildingFuture](https://techiral.medium.com/join-the-100daysofbuildingfuture-2dfee22f32c2?source=rss-65b63ff4aec0------2)
-- [Full Guide To Building A SaaS App With Python.](https://techiral.medium.com/full-guide-to-building-a-saas-app-with-python-a977a1d9eea4?source=rss-65b63ff4aec0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
