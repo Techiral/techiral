@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Is an AI Winter Coming? The Signs Point to Yes](https://techiral.medium.com/is-an-ai-winter-coming-the-signs-point-to-yes-8d1093dda4ee?source=rss-65b63ff4aec0------2)
 - [How to Sell Your E-Book for $400 a Month](https://techiral.medium.com/how-to-sell-your-e-book-for-400-a-month-3f8722893a20?source=rss-65b63ff4aec0------2)
 - [Get More Done with These Essential Developer Tools](https://techiral.medium.com/get-more-done-with-these-essential-developer-tools-12909b3ac423?source=rss-65b63ff4aec0------2)
 - [Avoid the Fees with These Free Heroku Alternatives!](https://techiral.medium.com/avoid-the-fees-with-these-free-heroku-alternatives-61c9fb7e5807?source=rss-65b63ff4aec0------2)
-- [Create an all-in-one audio analysis toolkit with Python](https://techiral.medium.com/create-an-all-in-one-audio-analysis-toolkit-with-python-d5d6248d3632?source=rss-65b63ff4aec0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
