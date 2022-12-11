@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Create an API with Python in No Time](https://techiral.medium.com/create-an-api-with-python-in-no-time-a182f5c7a550?source=rss-65b63ff4aec0------2)
 - [Create your own AI influencer today](https://techiral.medium.com/create-your-own-ai-influencer-today-22ea5d137cd9?source=rss-65b63ff4aec0------2)
 - [Sell Text Prompts for AI Art and Make Money](https://techiral.medium.com/sell-text-prompts-for-ai-art-and-make-money-3cefdf469659?source=rss-65b63ff4aec0------2)
 - [Is an AI Winter Coming? The Signs Point to Yes](https://techiral.medium.com/is-an-ai-winter-coming-the-signs-point-to-yes-8d1093dda4ee?source=rss-65b63ff4aec0------2)
-- [How to Sell Your E-Book for $400 a Month](https://techiral.medium.com/how-to-sell-your-e-book-for-400-a-month-3f8722893a20?source=rss-65b63ff4aec0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
