@@ -9,7 +9,7 @@
 
 - 🚀 Current Mission: **AI Face Cloning**
 
-- 🌱 I’m currently learning **OpenAI's Gpt-3**
+- 🌱 I’m currently learning **OpenAI's Gpt-4**
 
 - 👯 I’m looking for teammates, Contact me on **techiralthefuture@gmail.com**
 
