@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/techiral_" target="blank"><img src="https://img.shields.io/twitter/follow/techiral_?logo=twitter&style=for-the-badge" alt="techiral_" /></a> </p>
 
-- 🚀 Current Mission: **AI Face Cloning**
+- 🚀 Current Mission: **EDITH Glasses**
 
-- 🌱 I’m currently learning **OpenAI's Gpt-4**
+- 🌱 I’m currently learning **Raspberry Pi HUD (Heads Up Display)**
 
 - 👯 I’m looking for teammates, Contact me on **techiralthefuture@gmail.com**
 
 - 📝 I regularly write articles on [https://medium.com/@techiral](https://medium.com/@techiral)
 
-- 💬 Ask me about **AI 🤖, Metaverse 🥽, Python 👨‍💻**
+- 💬 Ask me about **AI 🤖, AR Glasses 🥽, Python 👨‍💻**
 
 - 📫 How to reach me **techiralthefuture@gmail.com**
 
