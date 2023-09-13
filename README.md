@@ -1,4 +1,4 @@
-<h1 align="center">The Future Is Here: Techiral</h1>
+<h1 align="center">Techiral</h1>
 <h3 align="center">Portal To Future 🌀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techiral&label=Profile%20views&color=0e75b6&style=flat" alt="techiral" /> </p>
