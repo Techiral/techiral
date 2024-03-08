@@ -21,6 +21,8 @@
 
 - 😜 Fun fact about me **I mostly forget while searching on Google, what I was searching 😜**
 
+  [![An image of @techiral's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/techiral)](https://holopin.io/@techiral)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Coded a Website from Scratch with ChatGPT and Midjourney](https://techiral.medium.com/coded-a-website-from-scratch-with-chatgpt-and-midjourney-3c60cfb96d41?source=rss-65b63ff4aec0------2)
