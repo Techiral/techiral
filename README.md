@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crack the Code: Grow &amp; Earn Big with Instagram Theme Pages!](https://techiral.medium.com/crack-the-code-grow-earn-big-with-instagram-theme-pages-9777fb73abd4?source=rss-65b63ff4aec0------2)
 - [Mastering Chrome Dino with AI](https://techiral.medium.com/mastering-chrome-dino-with-ai-7fe222195060?source=rss-65b63ff4aec0------2)
 - [We taught an AI in the White Room](https://techiral.medium.com/we-taught-an-ai-in-the-white-room-054c09dae9b3?source=rss-65b63ff4aec0------2)
 - [Coded a Website from Scratch with ChatGPT and Midjourney](https://techiral.medium.com/coded-a-website-from-scratch-with-chatgpt-and-midjourney-3c60cfb96d41?source=rss-65b63ff4aec0------2)
-- [Upgrade Alert: GPT-4 vs GPT-3](https://techiral.medium.com/upgrade-alert-gpt-4-vs-gpt-3-4432ed2670ba?source=rss-65b63ff4aec0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
