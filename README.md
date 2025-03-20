@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Your Own Autonomous AI Agent From Scratch!](https://techiral.medium.com/how-to-build-your-own-autonomous-ai-agent-from-scratch-7c1efb1c81ec?source=rss-65b63ff4aec0------2)
 - [Will AI Replace Developers by 2025?](https://techiral.medium.com/will-ai-replace-developers-2025-04262e7054de?source=rss-65b63ff4aec0------2)
 - [Crack the Code: Grow &amp; Earn Big with Instagram Theme Pages!](https://techiral.medium.com/crack-the-code-grow-earn-big-with-instagram-theme-pages-9777fb73abd4?source=rss-65b63ff4aec0------2)
 - [Mastering Chrome Dino with AI](https://techiral.medium.com/mastering-chrome-dino-with-ai-7fe222195060?source=rss-65b63ff4aec0------2)
-- [We taught an AI in the White Room](https://techiral.medium.com/we-taught-an-ai-in-the-white-room-054c09dae9b3?source=rss-65b63ff4aec0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
