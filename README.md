@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A2A vs MCP: How These AI Protocols Work &lpar;and How You Can Use ’Em&rpar;](https://techiral.medium.com/a2a-vs-mcp-how-these-ai-protocols-work-and-how-you-can-use-em-a548b2d10d44?source=rss-65b63ff4aec0------2)
 - [Understanding llms.txt: Making Websites AI-Friendly](https://techiral.medium.com/understanding-llms-txt-making-websites-ai-friendly-3a19bf70b87e?source=rss-65b63ff4aec0------2)
 - [How to Build Your Own Autonomous AI Agent From Scratch!](https://techiral.medium.com/how-to-build-your-own-autonomous-ai-agent-from-scratch-7c1efb1c81ec?source=rss-65b63ff4aec0------2)
 - [Will AI Replace Developers by 2025?](https://techiral.medium.com/will-ai-replace-developers-2025-04262e7054de?source=rss-65b63ff4aec0------2)
-- [Crack the Code: Grow &amp; Earn Big with Instagram Theme Pages!](https://techiral.medium.com/crack-the-code-grow-earn-big-with-instagram-theme-pages-9777fb73abd4?source=rss-65b63ff4aec0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
